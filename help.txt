@@ -1,0 +1,46 @@
+The Amazing Software Company has been growing at an extreme fast rate and required a H.R Management System. The purpose of the H.R Management System application is to make it easier to manage all employees, this ranges from new hires, organising holidays to pay role. Below is a guide on how to use the program.
+
+H.R Management System
+***Main Menu***
+1. List all Employees
+2. Add a new Employee
+3. Edit an Employee
+4. Delete an Employee
+5. View all Managers
+6. View all Developers
+7. View number of staff in Department
+8. Holiday Booking
+9. Payments
+10. Exit
+0. On screen help
+
+Option 1 will display a list of all employees on the system.
+Option 2 will allow you to add a new employee to the system. It will take you to a sub-menu which asks if you would like to add a manager or a developer. It will then take you to the appropriate page.
+1.	Add Manager: prompts you to enter Name, Department, Start date, Phone Number, Staff that the new manager will manage, Salary and the bonus.
+2.	Add Developer: prompts you to enter Name, Department, Start date, Phone Number, Developers level.
+Option 3 will allow you to edit an employee that is already in the system. It will take you to a sub-menu which asks for the employees ID. It will then take you to the appropriate menu.
+***Edit Employee Menu***
+Please select an option.
+1. Edit managers Salary: This will allow you to edit a managers salary.
+2. Edit Managers bonus: This will allow you to edit a managers bonus.
+3. Edit employees phone number: This will allow you to change an employees phone number.
+4. Request Department Change: This will take you to a sub menu that allows employee to request a department change. Program will prompt you to enter employee ID.
+Developer: Target department must have less than 14 employees in.
+Manager: Target department must not have more than 1 manager in department at time of request.
+
+5. Exit: This will return to main menu.
+Option 4 will allow you to delete an employee. You will be prompted to enter an employee ID, employee will be displayed on screen. You must then verify if you wish to delete the employee. Y or y will delete the employee. N or n will cancel the deletion.
+Option 5 will display all managers details that are currently in the system.
+Option 6 will display all developers details that are currently in the system.
+Option 7 will allow you to view all staff within a certain department. You will be prompted to enter the department ID. Number of staff in the department will then be displayed.
+Option 8 will take you to a sub-menu for holiday bookings.	
+	***Holiday Menu Options***
+Please select one of the following: 
+1. View all holiday bookings: This will view all booked holidays.
+2. Request holiday booking: This will prompt you for employee ID and take you to a holiday booking menu. Holidays cannot exceed 14 days.
+Developer: Must have approval from manager, program will prompt for confirmation from manager.
+Manager: If holiday does not exceed 14 days, approval will be granted.
+3. Exit: This will return to main menu.
+Option 9 will take you to a sub-menu for payment options. Program will prompt for employee ID and take you to the appropriate payment menu to calculate the employees monthly pay. Each employee will be prompted to enter a time sheet for each week of the month.
+Option 10 will exit the program.
+Option 0 will display on screen help.
