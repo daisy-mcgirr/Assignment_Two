@@ -25,7 +25,7 @@ public class DeptStorage implements Serializable {
 	@SuppressWarnings("unchecked")
 	public void readDepartmentDetails() {
 		/*
-		 * If departmentFile has been created, it reads the objects and populates depts
+		 * If departmentFile has been created, it reads the objects and populates departments
 		 * ArrayList
 		 */
 		if (departmentFile.exists()) {
